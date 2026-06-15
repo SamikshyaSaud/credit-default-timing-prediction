@@ -1,1 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
 
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data files (download separately from Kaggle)
+data/
+*.csv
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
